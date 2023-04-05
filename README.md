@@ -13,8 +13,8 @@
 1. Create a project folder in your local.
 2. Navigate to project folder/dir and open cmd.
 3. Run the command : git clone https://github.com/meghnadhingra11/MEGHNADHINGRA-NHSBSA.git 
-5. After cloning the project successfully in the local, then navigate to project folder/dir where pom.xml is present and open cmd and Run the command :
-mvn clean
-mvn verify
+4. After cloning the project successfully in the local, then navigate to project folder/dir where pom.xml is present and open cmd and Run the command :
+- mvn clean
+- mvn verify
 5. You can see the different reports under the folder :
 target -> reports.html
